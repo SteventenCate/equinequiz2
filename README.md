@@ -1,4 +1,6 @@
 Elite Paardentraining Quiz App
+
+
 Welkom bij de Elite Paardentraining Quiz App! Deze Flutter-applicatie is ontworpen om paardentrainingsenthousiastelingen te helpen hun kennis te testen en bij te houden, en om trainingssessies te simuleren. De app bevat een interactieve quiz, een ranglijst, instellingen voor personalisatie en een simpele trainingsopnamefunctie.
 
 Inhoudsopgave
